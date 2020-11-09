@@ -1,2 +1,5 @@
 # hello-world
-Python files
+
+Hello everyone!
+
+I am attempting to learn Python.
